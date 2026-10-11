@@ -1,0 +1,5 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "AEM10941-QFN") (type "KiCad") (uri "${KIPRJMOD}/libraries/AEM10941-QFN.pretty") (options "") (descr ""))
+	(lib (name "LIS2DW12TR") (type "KiCad") (uri "${KIPRJMOD}/libraries/LIS2DW12TR.pretty") (options "") (descr ""))
+)

@@ -1,0 +1,38 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.history/
+*/.history/
+
+# KiCad temporary & backup files
+*.kicad_prl
+*.kicad_sch.bak
+*.kicad_pcb.bak
+*-save.kicad_sch
+*-save.kicad_pcb
+_autosave-*
+*.bak
+*.tmp
+*.lck
+
+# KiCad rescue & recovery
+*-rescue.lib
+*-rescue.dcm
+
+# LaTeX build artifacts (if compiling logbook)
+*.aux
+*.bbl
+*.blg
+*.log
+*.out
+*.toc
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+
+# Python cache (if scripts are run locally)
+__pycache__/
+*.py[cod]
+*$py.class

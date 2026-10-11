@@ -1,0 +1,4 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "LIS2DW12TR") (type "KiCad") (uri "${KIPRJMOD}/libraries/LIS2DW12TR/LIS2DW12TR.kicad_sym") (options "") (descr ""))
+)
